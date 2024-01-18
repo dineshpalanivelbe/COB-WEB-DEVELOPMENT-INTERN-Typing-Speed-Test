@@ -63,9 +63,7 @@ body {
     color: #ca4754;
     border-radius: 4px;
 }
-/* .typing-text p span.active {
-    color: #17A2B8;
-} */
+
 .typing-text p span.active::before {
     position: absolute;
     content: "";
